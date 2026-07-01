@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Work Record ",
+  "description": "Daily Work Record \u0026 Tracker to manage your working hours, earnings, tasks, and receive progress updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
